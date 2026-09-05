@@ -17,20 +17,17 @@ This repository is a personal DSA practice tracker where I solve problems regula
 
 ## 📂 Repository Structure
 
-Leetcode-solutions/
-│
-├── Arrays/
-├── Strings/
-├── HashMap/
-├── Two_Pointers/
-├── Sliding_Window/
-├── Recursion_Backtracking/
-├── LinkedList/
-├── Stack/
-├── Queue/
-├── Trees/
-├── Graphs/
-├── Dynamic_Programming/
-├── Binary_Search/
-├── Greedy/
-└── README.md
+leetcode-solutions/
+├── arrays/
+├── strings/
+├── hashing/
+├── two-pointers/
+├── sliding-window/
+├── recursion-backtracking/
+├── linked-lists/
+├── stacks-queues/
+├── trees/
+├── graphs/
+├── dynamic-programming/
+├── binary-search/
+└── greedy/
