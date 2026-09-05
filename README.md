@@ -9,7 +9,7 @@ This repository is a personal DSA practice tracker where I solve problems regula
 ## 📌 About
 
 - **Language:** Java
-- **Platform:** LeetCode
+- **Platform:** [LeetCode](https://leetcode.com/u/_kashish23/)
 - **Focus:** Data Structures & Algorithms
 - **Goal:** Consistent daily DSA practice
 
@@ -17,6 +17,7 @@ This repository is a personal DSA practice tracker where I solve problems regula
 
 ## 📂 Repository Structure
 
+```
 leetcode-solutions/
 ├── arrays/
 ├── strings/
@@ -31,3 +32,4 @@ leetcode-solutions/
 ├── dynamic-programming/
 ├── binary-search/
 └── greedy/
+```
