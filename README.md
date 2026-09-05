@@ -12,40 +12,25 @@ This repository is a personal DSA practice tracker where I solve problems regula
 - **Platform:** LeetCode
 - **Focus:** Data Structures & Algorithms
 - **Goal:** Consistent daily DSA practice
-- **Repository:** LeetCode DSA Solutions by `kashish23`
 
 ---
 
 ## 📂 Repository Structure
 
-```text
-LeetCode-DSA/
+Leetcode-solutions/
 │
 ├── Arrays/
-│   ├── Two_Sum.java
-│   └── Best_Time_to_Buy_and_Sell_Stock.java
-│
 ├── Strings/
-│   └── Valid_Anagram.java
-│
-├── LinkedList/
-│   └── Reverse_Linked_List.java
-│
-├── Stack/
-│   └── Valid_Parentheses.java
-│
-├── Queue/
-│
 ├── HashMap/
-│
-├── Binary_Search/
-│
-├── Sorting/
-│
+├── Two_Pointers/
+├── Sliding_Window/
+├── Recursion_Backtracking/
+├── LinkedList/
+├── Stack/
+├── Queue/
 ├── Trees/
-│
 ├── Graphs/
-│
 ├── Dynamic_Programming/
-│
+├── Binary_Search/
+├── Greedy/
 └── README.md
