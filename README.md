@@ -1,4 +1,4 @@
-# LeetCode DSA Solutions
+# LeetCode Solutions
 
 My solutions to LeetCode problems, implemented in **Java**.
 
