@@ -1,0 +1,31 @@
+class Solution {
+    public boolean isIsomorphic(String s, String t) {
+        if (s.length() != t.length()) {
+            return false;
+        }
+        
+        Map<Character, Character> charMappingMap = new HashMap<>();
+        
+        for (int i = 0; i < s.length(); i++) {
+            char charS = s.charAt(i);
+            char charT = t.charAt(i);
+            
+            if (charMappingMap.containsKey(charS)) {
+                // If charS is already in the map, its mapped value MUST equal charT
+                if (charMappingMap.get(charS) != charT) {
+                    return false;
+                }
+            } else {
+                // If charS is new, make sure charT hasn't already been mapped to something else
+                if (charMappingMap.containsValue(charT)) {
+                    return false;
+                }
+                
+                // Since both are new to each other, add them to the map
+                charMappingMap.put(charS, charT);
+            }
+        }
+        
+        return true;
+    }
+}
